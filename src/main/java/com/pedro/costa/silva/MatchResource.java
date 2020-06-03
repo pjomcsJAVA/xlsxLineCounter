@@ -18,7 +18,7 @@ import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
 
 @Path("/hello")
-public class ExampleResource {
+public class MatchResource {
 
     public static final String EXTENSION_FOR_FILES = ".xlsx";
     public static final String FOLDER_TO_CHECK_FOR_FILES = "/home/pedro.costa/xlsFileCounter";
