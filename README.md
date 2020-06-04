@@ -1,7 +1,7 @@
 # xlsxLineCounter
 
 This little program counts all lines in all files with xlsx extension in a folder. This program assumes that all data is on the first sheet and
- that all sheets have a title line which is not considered as a line.
+ that all sheets can have a header line which is not considered as a line depending on a boolean (XLS_HAS_HEADER_IN_EACH_SHEET).
  
  FOLDER_TO_CHECK_FOR_FILES -> folder to check for xlsx files (or another extension, but has to be an excel file)
 
