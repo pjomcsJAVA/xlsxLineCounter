@@ -11,7 +11,7 @@ This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 You can run your application in dev mode that enables live coding using:
 ```
-./mvnw quarkus:dev
+./mvn quarkus:dev
 ```
 
 ## Packaging and running the application
